@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction
 
-A machine learning project to predict whether a customer is likely to churn.
+A machine learning model to predict customer churn using customer data, achieving ~80% accuracy. Developed a Streamlit app for real-time churn probability predictions to support data-driven retention strategies.
 
 ## 🚀 Features
 - Preprocessing pipeline (numeric + categorical)
